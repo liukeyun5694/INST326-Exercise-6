@@ -7,6 +7,12 @@ def hello():
     """
     print("Hello, GitHub!")
 
+    
+def goodbye():
+    """
+    Prints goodbye.
+    """
+    print("Goodbye!")
 
 if __name__ == '__main__':
     hello()
